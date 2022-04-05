@@ -5,5 +5,7 @@
         "noEmitOnError": true,
         "noImplicitAny": true
     },
-    "include":["app/**/*"]
+    "include": [
+        "app/**/*"
+    ]
 }
